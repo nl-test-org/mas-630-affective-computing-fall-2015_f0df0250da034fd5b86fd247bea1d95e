@@ -1,0 +1,40 @@
+---
+course_id: mas-630-affective-computing-fall-2015
+layout: course_section
+menu:
+  leftnav:
+    identifier: 81a86953ad1f75ecfbfa25e2d46ae338
+    name: Readings
+    weight: 30
+title: Readings
+type: course
+uid: 81a86953ad1f75ecfbfa25e2d46ae338
+
+---
+
+Required Texts
+--------------
+
+\[RP\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661157) Picard, R. W. _Affective Computing_. MIT Press, 2000. ISBN: 9780262661157. \[Preview with [Google Books](http://books.google.com/books?id=GaVncRTcb1gC&pg=PAfrontcover)\]
+
+\[RC\] = Calvo, R. A., S. K. D'Mello, J. Gratch, et al. _The Oxford Handbook of Affective Computing_. Oxford University Press, 2014. ISBN: 9780199942237. \[Preview with [Google Books](http://books.google.com/books?id=w6siBQAAQBAJ&pg=PAfrontcover)\]
+
+Optional Reading
+----------------
+
+Elkins, Aaron, Stefanos Zafeiriou, Maja Pantic, et al. "Unobstrusive Deception Detection." In _The Oxford Handbook of Affective Computing_. Oxford University Press, 2014. ISBN: 9780199942237. \[Preview with [Google Books](http://books.google.com/books?id=w6siBQAAQBAJ&pg=PA503=onepage)\]
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| 1 | Introduction to Affective Computing & The Challenge of Mood Measurement and Forecasting | \[RP\] Chapter 1, Chapter 2 (especially pp. 75–82 on emotional intelligence), and Chapter 3. |
+| 2 | Affect Recognition, Part 1 |  {{< br >}}{{< br >}} \[RP\] Chapter 5. {{< br >}}{{< br >}} \[RC\] Chapter 14. {{< br >}}{{< br >}} Picard, R. W., E. Vyzas, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Toward Machine Emotional Intelligence: Analysis of Affective Physiological State." (PDF)](http://vismod.media.mit.edu/pub/tech-reports/TR-536.pdf) _IEEE Transactions Pattern Analysis and Machine Intelligence_ 23, no. 10 (2001): 1175–91. (Just read sections 1, 2, and 5 unless you're also interested in the machine learning details). {{< br >}}{{< br >}}  |
+| 3 | Students Present on 2–3 "Rough Project Ideas" |  {{< br >}}{{< br >}} Isen, Daubman, and Nowicki. "[Positive Affect Facilitates Creative Problem Solving](http://dx.doi.org/10.1037/0022-3514.52.6.1122)." _Journal of Personality and Social Psychology_ 52, no. 6 (1987): 1122–31. {{< br >}}{{< br >}} Forgas, and Moylan. "[After the Movies: Transient Mood and Social Judgments](http://dx.doi.org/10.1177/0146167287134004)." _Personality and Social Psychology Bulletin_ 13, no. 4 (1987): 467–77. {{< br >}}{{< br >}} Picard, and Liu. "[Relative Subjective Count and Assessment of Interruptive Technologies Applied to Mobile Monitoring of Stress](http://dx.doi.org/10.1016/j.ijhcs.2006.11.019)." _International Journal of Human-Computer Studies_ 65, no. 4 (2007): 361–75. {{< br >}}{{< br >}} Larson, and Picard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Aesthetics of Reading." (PDF)](http://affect.media.mit.edu/pdfs/05.larson-picard.pdf) _Human-Computer Interaction Consortium_, 2005. {{< br >}}{{< br >}}  |
+| 4 | Sensing Emotion Directly and Indirectly |  {{< br >}}{{< br >}} Klein, J., Y. Moon, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["This Computer Responds to User Frustration." (PDF)](http://affect.media.mit.edu/pdfs/02.klein-moon-picard.pdf) _Interacting with Computers_ 14, no. 2 (2002): 119–40. {{< br >}}{{< br >}} Bickmore, and Picard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Towards Caring Machines." (PDF)](http://affect.media.mit.edu/pdfs/04.bickmore-picard-chi.pdf) _Proceedings of CHI_, 2004. {{< br >}}{{< br >}} Vlahos, James. "[Barbie Wants to Get to Know your Child](http://www.nytimes.com/2015/09/20/magazine/barbie-wants-to-get-to-know-your-child.html?_r=1)." _New York Times Magazine_, September 2015. {{< br >}}{{< br >}} Bickmore, and Schulman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Practical Approaches to Comforting Users with Relational Agents." (PDF)](http://www.ccs.neu.edu/home/bickmore/publications/CHI07.pdf) _Proceedings of CHI_, 2007. {{< br >}}{{< br >}}  |
+| 5 | Affective Technology Interaction & Empathy |  {{< br >}}{{< br >}} McDuff, Daniel, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Measuring Voter's Candidate Preference Based on Affective Responses to Election Debates." (PDF - 4.3MB)](http://dspace.mit.edu/openaccess-disseminate/1721.1/92439) Affective Computing and Intelligent Interaction (ACII), Humaine Association Conference on IEEE, 2013. {{< br >}}{{< br >}} \[RC\] Cohn, Jeffrey F., and Fernando De La Torre. "Automated Face Analysis for Affective Computing." Edited by Rafael Calvo, Sidney D'Mello, eds. {{< br >}}{{< br >}}  |
+| 6 |  {{< br >}}{{< br >}} State of The Art Facial Expression Recognition and What It Tells Us About Emotion {{< br >}}{{< br >}}  | No assigned readings |
+| 7 | Project Presentations: Background and Design |  {{< br >}}{{< br >}} Blascovich, J., and W. B. Mendes. "Challenge and Threat Appraisals: The Role of Affective Cues." In _Feeling and Thinking: The Role of Affect in Social Cognition_. Edited by J. P. Forgas. Cambridge University Press, 2001, pp. 59–82. ISBN: 9780521011891. \[Preview with [Google Books](http://books.google.com/books?id=PSiU9wsJ13QC&pg=PA59=onepage)\] {{< br >}}{{< br >}} Hernandez, J., D. McDuff, X. Benvidas, et al. "AutoEmotive: Bringing Empathy to the Driving Experience to Manage Stress." In _Designing Interactive Systems: A Comprehensive Guide to HCI, UX & Interaction Design._ Trans-Atlantic Publications, 2013, pp. 53–56. ISBN: 9781447920113. {{< br >}}{{< br >}} Hernandez, J., M. E. Hoque, W. Drevo, et al. "Mood Meter: Counting Smiles in the Wild." In _Ubiquitous Computing: Smart Devices, Environments and Interactions_. Wiley, 2009, pp. 301–10. ISBN: 9780470035603. {{< br >}}{{< br >}} {{< h 3 >}}Optional Readings for Dr. Javier Hernandez's Talk{{< /h >}} {{< br >}}{{< br >}} Hernandez, Javier, Rob R. Morris, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Call Center Stress Recognition with Person-Specific Models." (PDF)](http://affect.media.mit.edu/pdfs/11.Hernandez-Morris-Picard-ACII.pdf) {{< br >}}{{< br >}} Hernandez, Javier, Yin Li, et al. "[BioGlass: Physiological Parameter Estimation Using a Head-mounted Wearable Device](http://dx.doi.org/10.4108/icst.mobihealth.2014.257219)." {{< br >}}{{< br >}} McEwen, B. S., and T. Seeman. "Stress and affect: Applicability of the concepts of allostasis and allostatic load." In _Handbook of Affective Sciences_. Edited by R. J. Davidson, K. R. Scherer and H. H. Goldsmith. Oxford University Press, 2002, pp. 1117-37. ISBN: 9780195126013. {{< br >}}{{< br >}} Morris, Dan, A. J. Bernheim Brush, et al. "[SuperBreak: Using Interactivity to Enhance Typing Breaks](http://dx.doi.org/10.1145/1357054.1357337)." _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_ (2008): 1817–26. {{< br >}}{{< br >}}  |
+| 8 |  {{< br >}}{{< br >}} Stress Recognition and Relief {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[RP\] Picard. Chapter 4: Potential Concerns. {{< br >}}{{< br >}} \[RC\] Cowie. Chapter 24: Ethical Issues in Affective Computing. {{< br >}}{{< br >}} {{< h 3 >}}_Watch_{{< /h >}} {{< br >}}{{< br >}} [_I, Robot_](http://www.imdb.com/title/tt0343818/). Directed by Alex Proyas. Color, 115 min. 2004. {{< br >}}{{< br >}}  |
+| 9 | Ethical Issues Related to Affective Computing | No assigned readings |
+| 10 | Grab Bag of Affective Computing Topics | No assigned readings |
+| 11 | Final Project Presentations & Discussion | No assigned readings |
+| 12 | Final Project Presentations & Celebration | No assigned readings
